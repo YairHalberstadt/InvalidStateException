@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Yair Halberstadt</Authors>
+    <Description>An Exception indicating an invalid state has been reached</Description>
+    <Copyright>MIT</Copyright>
+    <PackageLicenseUrl>https://github.com/YairHalberstadt/InvalidStateException/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/YairHalberstadt/InvalidStateException</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/YairHalberstadt/InvalidStateException</RepositoryUrl>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
